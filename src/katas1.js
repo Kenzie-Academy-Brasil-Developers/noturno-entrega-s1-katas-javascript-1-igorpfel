@@ -104,7 +104,7 @@ function oddNumbersBackwards() {
       }
   
     }  
-console.log(oddNumbersBackwards();
+console.log(oddNumbersBackwards());
 
 function multiplesOfFiveBackwards() {
     
